@@ -1,0 +1,42 @@
+
+
+.gameName {
+	margin-bottom: 20px;
+	text-align: center;
+
+	
+}
+
+#rightImage {
+	position: absolute;
+	right: 0px;
+	
+}
+
+#leftImage {
+	position: absolute;
+	left: 0px;
+}
+
+
+
+.headbang {
+	width: 500px;
+	height: auto;
+	
+
+
+}
+
+.toPlay {
+	font-size: 24px;
+
+}
+
+
+#gameArea {
+	border: 1px solid black;
+	width: 720;
+	height: 270;
+}
+}
