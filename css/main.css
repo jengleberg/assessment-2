@@ -34,9 +34,10 @@
 }
 
 
-#gameArea {
-	border: 1px solid black;
-	width: 720;
-	height: 270;
+canvas {
+	background-image: url("Background.jpg");
+	background-repeat: no-repeat;
+	top: 400px;
+	left: 400px;
 }
-}
+
