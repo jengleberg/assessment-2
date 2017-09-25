@@ -1,3 +1,6 @@
+
+/* positions the gameboard container. */
+
 #container{
 	height: 400px;
 	width: 600px; 
@@ -10,6 +13,8 @@
 
 }
 
+/* sets elements for beavis player */
+
 #beavis{
 	position: absolute;
 	height: 50px;
@@ -19,6 +24,8 @@
 	left: 0;
 	top: 100px;
 }
+
+/* sets elements for beavis player */
 
 #butthead{
 	position: absolute;
@@ -30,7 +37,7 @@
 	top: 200px;
 }
 
-
+/* Postions images and title */
 
 .gameName {
 	margin: auto;
