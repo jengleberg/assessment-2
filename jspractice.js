@@ -38,16 +38,10 @@ if (e.keyCode == 37){
 
 }
 
-
-
 }
 
-function newGame() {
-	var resetButton = document.getElementById('newGame');
-	resetButton.addEventListener("click", start);
-}
 
-function start() {
-   var beavisLeft = 0;
-   var buttheadleft = 0; 
-}
+
+document.getElementById("newGame").onclick = function () {
+	location.href = "landing.html";
+};
