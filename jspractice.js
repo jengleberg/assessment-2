@@ -1,6 +1,6 @@
 // starts game page and defines variables
 
-window.onload = start;
+
 var beavis = document.getElementById('beavis');
 var butthead = document.getElementById('butthead');
 var container = document.getElementById('container');
@@ -36,10 +36,13 @@ if (e.keyCode == 37){
 	if (buttheadLeft >= 550){
 		alert("Butthead Wins!");
 		
+		
 	}
 	
 
 }
+
+
 
 }
 
